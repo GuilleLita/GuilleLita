@@ -7,7 +7,7 @@ I'm Guillermo Loscertales and I'm currently studying Computer Engineering.
 | Project  | Description |
 | ------------- | ------------- |
 | [xdp-firewall](https://github.com/GuilleLita/xdp-firewal-se2)  | XDP-Firewall developed within the subject Sistemas Empotrados II  |
-| [Risc-V Interpreter](https://github.com/GuilleLita/RiscV-Interpreter))  | RISCV interpreter is a simple rv32i interpreter written in C++ |
+| [Risc-V Interpreter](https://github.com/GuilleLita/RiscV-Interpreter)  | RISCV interpreter is a simple rv32i interpreter written in C++ |
 | [simplezgzbus](https://github.com/GuilleLita/simplezgzbus)  | Flutter app that allows to visualize the time left of a selected line in a bus stop or a tram stop. |
 | [CookieClicker Mod](https://github.com/GuilleLita/CookieAutoClicker)  | Autoclicker menu for the game Cookie Clicker |
 
